@@ -47,3 +47,11 @@
 
 напиши інструкцію як користуватися командами з короткими прикладами під кожну команду
 і запиши то все в instructions/commands.md
+git remote add origin git@github.com:uewek87@gmail.com/ai_learn.git
+git push -u origin main
+
+
+
+ця команда ssh-keygen -t ed25519 -C "uewek87@gmail.com" -f ~/.ssh/id_ed25519_github не поламає мої інші доступи?
+в мене є інший проект в папці /home/uewek/sites/trade_bot і там той же самий мій гітхаб аккаунт просто інший репозиторій.
+чи не можна використовувати ті же доступа?
