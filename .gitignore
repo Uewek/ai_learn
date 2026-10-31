@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/workspace.xml
+.idea/shelf/
+.env
+.claude/settings.local.json
